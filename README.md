@@ -1,5 +1,7 @@
 # vogtbasketball-FrontEnd
 
+[![Build Status](https://travis-ci.com/4hwc/vogtbasketball-FrontEnd.svg)](https://travis-ci.com/4hwc/vogtbasketball-FrontEnd)
+
 ## Main
 
 https://github.com/4hwc/vogtbasketball
